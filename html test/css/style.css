@@ -1,0 +1,17 @@
+
+body {
+    background-color: #333;
+    color: aliceblue;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display:inline-flex;
+}
+
+header {
+background-color: #252525;
+}
+
+
